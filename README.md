@@ -2,20 +2,20 @@
 <h1 align="center">👋 ¡Hola! Soy Miguel Angel Buelvas Gallo 🚀</h1>
 <h3 align="center">Ingeniero de Software | Analista de Datos | Innovador Tecnológico</h3>
 
-<!-- Banner -->
+<!-- Banner
 <p align="center">
   <img src="https://github.com/miguelbuelvasdev/miguelbuelvasdev/blob/main/banner.png" alt="Banner" width="800px">
-</p>
+</p>  -->
 
 <!-- Acerca de mí -->
 ## 🙋‍♂️ Sobre mí
 Soy ingeniero de software e ingeniero industrial en formación, apasionado por la innovación tecnológica y la optimización de procesos.  
 Mi experiencia incluye:
 
-- 📊 **Análisis de datos** 
-- 🤖 **Automatización y desarrollo de modelos predictivos**
-- 💻 **Desarrollo backend y frontend**
-- 🚀 **Simulación de eventos y optimización de procesos** 
+- 📊 **Análisis de datos.** 
+- 🤖 **Automatización y desarrollo de modelos predictivos.**
+- 💻 **Desarrollo backend y frontend.**
+- 🚀 **Simulación de eventos y optimización de procesos.** 
 
 🎯 **Meta 2024**: Profundizar en inteligencia artificial aplicada a la optimización industrial.
 
@@ -24,13 +24,18 @@ Mi experiencia incluye:
 <!-- Portafolio -->
 ## 🌐 Mi Portafolio Web
 📌 **Explora mis proyectos y trabajos en:**  
-🔗 **[www.miguelbuelvasdev.com](https://www.miguelbuelvasdev.com)**  
+🔗 <!--**[www.miguelbuelvasdev.com](https://www.miguelbuelvasdev.com)**  -->
+
 
 <!-- Redes Sociales -->
 ## 🌍 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/miguelbuelvasdev)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/miguelbuelvasdev)
-[![Publicación Académica](https://img.shields.io/badge/Paper-orange?style=for-the-badge&logo=readme)](https://revistascientificas.cuc.edu.co/bilo/article/view/6116)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/miguelbuelvasdev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miguelbuelvasdev)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@miguelbuelvasdev)
+
+---
 
 <!-- Estadísticas -->
 <!-- ## 📊 GitHub Stats
