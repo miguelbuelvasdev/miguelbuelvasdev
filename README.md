@@ -26,6 +26,18 @@ Mi experiencia incluye:
 📌 **Explora mis proyectos y trabajos en:**  
 🔗 <!--**[www.miguelbuelvasdev.com](https://www.miguelbuelvasdev.com)**  -->
 
+---
+
+<!-- Publicaciones -->
+## 📄 Publicaciones Académicas
+📌 **Simulación del proceso de extracción y descargue de malezas en la ciénaga Juan Gómez (Bolívar, Colombia)**  
+🔗 **[Leer publicación](https://revistascientificas.cuc.edu.co/bilo/article/view/6116)**  
+
+Publicado en **El Boletín de Innovación, Logística y Operaciones (ISSN 2711-3280 Online)**, Editorial EDUCOSTA, Universidad de la Costa, Barranquilla, Colombia.  
+
+Este artículo aborda la simulación de eventos discretos aplicada a la optimización de procesos logísticos en sistemas fluviales.
+
+---
 
 <!-- Redes Sociales -->
 ## 🌍 Conéctate conmigo
